@@ -50,7 +50,7 @@ h1 {
 }
 .item {
   background-color: #e64944;
-  width: 45%;
+  width: auto;
   text-align: left;
   margin: 4px 0;
   padding-left: 8px;
